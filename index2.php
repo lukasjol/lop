@@ -22,6 +22,7 @@
 </head>
 
 <body>
+<?php include 'assets.php';?>
     <!-- ##### Header Area Start ##### -->
     <header class="header-area">
 
